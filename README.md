@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @includeRubiks
+- 👀 I’m interested in C#, and just plain OOP
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing, really.
